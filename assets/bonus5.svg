@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1040" viewBox="0 0 720 1040" role="img" aria-labelledby="title desc">
+<title id="title">Historias Bíblicas para Toda la Familia</title>
+<desc id="desc">Portada dorada y verde con una familia reunida alrededor de una Biblia.</desc>
+<defs>
+<linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#152f2a"/><stop offset=".56" stop-color="#785124"/><stop offset="1" stop-color="#10251f"/></linearGradient>
+<radialGradient id="sun5"><stop stop-color="#ffe6a2" stop-opacity=".85"/><stop offset=".45" stop-color="#e7ad4d" stop-opacity=".26"/><stop offset="1" stop-color="#e7ad4d" stop-opacity="0"/></radialGradient>
+<filter id="sh5"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="720" height="1040" fill="url(#bg5)"/>
+<circle cx="360" cy="590" r="340" fill="url(#sun5)"/>
+<rect x="34" y="34" width="652" height="972" rx="18" fill="none" stroke="#f0c66a" stroke-width="3"/>
+<path d="M90 170h540M90 850h540" stroke="#efc56a" stroke-width="2" opacity=".7"/>
+<text x="360" y="112" text-anchor="middle" fill="#f5d47e" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="5">RECURSO FAMILIAR</text>
+<text x="360" y="250" text-anchor="middle" fill="#fff6da" font-family="Georgia,serif" font-size="55" font-weight="700"><tspan x="360">HISTORIAS</tspan><tspan x="360" dy="66">BÍBLICAS</tspan></text>
+<text x="360" y="405" text-anchor="middle" fill="#f4d37d" font-family="Georgia,serif" font-size="34" font-weight="700"><tspan x="360">PARA TODA</tspan><tspan x="360" dy="46">LA FAMILIA</tspan></text>
+<g transform="translate(80 515)" filter="url(#sh5)">
+<circle cx="165" cy="74" r="54" fill="#0a211b" stroke="#edc46b" stroke-width="5"/>
+<circle cx="395" cy="74" r="54" fill="#0a211b" stroke="#edc46b" stroke-width="5"/>
+<circle cx="280" cy="118" r="42" fill="#0a211b" stroke="#edc46b" stroke-width="5"/>
+<path d="M75 277c8-96 40-151 90-151s82 55 90 151M305 277c8-96 40-151 90-151s82 55 90 151M213 277c5-72 27-116 67-116s62 44 67 116" fill="#0a211b" stroke="#edc46b" stroke-width="6"/>
+<path d="M280 270c-72-46-145-43-202-9v134c66-31 137-26 202 16z" fill="#fff3cf" stroke="#e5b85c" stroke-width="5"/>
+<path d="M280 270c72-46 145-43 202-9v134c-66-31-137-26-202 16z" fill="#fff8df" stroke="#e5b85c" stroke-width="5"/>
+<path d="M280 270v141" stroke="#b47d29" stroke-width="5"/>
+<path d="M118 305c39-12 83-9 122 6M118 338c39-12 83-9 122 6M320 311c39-15 83-18 122-6M320 344c39-15 83-18 122-6" fill="none" stroke="#99702d" stroke-width="6" stroke-linecap="round" opacity=".6"/>
+</g>
+<text x="360" y="920" text-anchor="middle" fill="#fff3cd" font-family="Georgia,serif" font-size="22" font-style="italic">Leer · Conversar · Crecer juntos</text>
+<text x="360" y="968" text-anchor="middle" fill="#f0c66a" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">BIBLIOTECA DE ESTUDIO BÍBLICO</text>
+</svg>
